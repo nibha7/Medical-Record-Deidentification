@@ -1,0 +1,12 @@
+streamlit
+pandas
+openpyxl
+xlsxwriter
+PyMuPDF
+reportlab
+faker
+numpy
+scikit-learn
+matplotlib
+joblib
+torch
